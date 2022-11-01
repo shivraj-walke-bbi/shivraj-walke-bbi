@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivraj-walke-bbi
 - 👀 I’m interested in flutter development
-- 🌱 I’m currently learning flutter clean architecture
+- 🌱 I’m currently learning flutter TDD clean architecture
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me https://www.linkedin.com/in/shivraj-walke-820303206/
 
